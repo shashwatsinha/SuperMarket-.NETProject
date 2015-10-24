@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2012\Projects\SupermarketProject\SupermarketProject\bin\SupermarketProject.dll
+c:\users\user\documents\visual studio 2012\Projects\SupermarketProject\SupermarketProject\bin\SupermarketProject.pdb
+c:\users\user\documents\visual studio 2012\Projects\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.dll
+c:\users\user\documents\visual studio 2012\Projects\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.pdb
+C:\Users\student\Documents\SupermarketProject\SupermarketProject\bin\SupermarketProject.dll
+C:\Users\student\Documents\SupermarketProject\SupermarketProject\bin\SupermarketProject.pdb
+C:\Users\student\Documents\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.dll
+C:\Users\student\Documents\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.pdb
+G:\SupermarketProject\SupermarketProject\bin\SupermarketProject.dll
+G:\SupermarketProject\SupermarketProject\bin\SupermarketProject.pdb
+G:\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.csprojResolveAssemblyReference.cache
+G:\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.dll
+G:\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.pdb
+G:\SupermarketProject\SupermarketProject\bin\App_Data\Inventory.mdb
+G:\Projects\SupermarketProject\SupermarketProject\bin\App_Data\Inventory.mdb
+G:\Projects\SupermarketProject\SupermarketProject\bin\SupermarketProject.dll
+G:\Projects\SupermarketProject\SupermarketProject\bin\SupermarketProject.pdb
+G:\Projects\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.csprojResolveAssemblyReference.cache
+G:\Projects\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.dll
+G:\Projects\SupermarketProject\SupermarketProject\obj\Debug\SupermarketProject.pdb

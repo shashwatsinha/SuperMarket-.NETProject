@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SupermarketProject.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <script type="text/javascript" src="http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject.js"></script>
+         <script type="text/javascript">
+         <!--
+    function GetUnity() {
+        if (typeof unityObject != "undefined") {
+            return unityObject.getObjectById("unityPlayer");
+        }
+        return null;
+    }
+    var params = {
+        disableContextMenu: true
+    };    
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regexS = "[\\?&]" + name + "=([^&#]*)";
+        var regex = new RegExp(regexS);
+        var results = regex.exec(window.location.search);
+        if (results == null)
+            return "";
+        else
+            return decodeURIComponent(results[1].replace(/\+/g, " "));
+    }    
+    var field1 = getParameterByName('field1');
+    if (typeof unityObject != "undefined") {
+        unityObject.embedUnity("unityPlayer", field1, 800, 600, params);  
+    }
+    
+         </script> 
+    <title></title>
+    <asp:ContentPlaceHolder ID="head"  runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1"  NavigateUrl="~/Game.aspx?field1=AllUnity.unity3d" Text="Game" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
